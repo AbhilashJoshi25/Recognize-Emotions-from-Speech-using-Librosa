@@ -1,7 +1,7 @@
 #Speech Emotion Recognition (SER) with Librosa
 Objective: This project implements a Speech Emotion Recognition (SER) model to classify emotions from speech signals, an essential task in natural language processing and human-computer interaction.
 
-Methodology:
+#Methodology:
 
 Feature Extraction: Utilized the Librosa library for extracting relevant acoustic features from audio signals, focusing on characteristics that reflect emotional nuances in speech.
 Model Training: Trained a Multi-Layer Perceptron (MLP) classifier on the extracted features to learn patterns associated with different emotions.
